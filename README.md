@@ -4,8 +4,8 @@ Here you can find various solution and solve problem about Power Bi.
 ![Capture](https://github.com/rajib-ahmed98/Power-Bi/assets/90234787/40b379b3-98cb-4aa7-b5e8-27b2e48d4d9e)
 ![hospitality](https://github.com/rajib-ahmed98/Power-Bi/assets/90234787/27e4b676-ceec-43d1-bce2-efadf942be0d)
 <img width="1430" height="791" alt="Picture10" src="https://github.com/user-attachments/assets/acec9636-5534-4284-9cfd-09048abcc88e" />
-<img width="1430" height="791" alt="<img width="624" height="350" alt="Picture1" src="https://github.com/user-attachments/assets/6993d6b1-f591-4dd6-8ec2-37f01c730ed6" />
-Picture9" src="https://github.com/user-attachments/assets/6d97756b-6b82-46a3-aa96-8ed456e55828" />
+<img width="1430" height="791" alt="Picture1" src="https://github.com/user-attachments/assets/6993d6b1-f591-4dd6-8ec2-37f01c730ed6" />
+<img width="624" height="350" alt="Picture9" src="https://github.com/user-attachments/assets/6d97756b-6b82-46a3-aa96-8ed456e55828" />
 <img width="1430" height="791" alt="Picture8" src="https://github.com/user-attachments/assets/197bcb53-2f63-4114-bc20-b58ea8a895e7" />
 <img width="1430" height="791" alt="Picture7" src="https://github.com/user-attachments/assets/b7ec23cb-0ad9-4293-988d-3f62ecb55a2e" />
 <img width="1430" height="791" alt="Picture6" src="https://github.com/user-attachments/assets/66659f0d-871a-4e02-9b11-de7cca834ad7" />
