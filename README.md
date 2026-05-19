@@ -4,12 +4,6 @@ Welcome to my Power BI project repository.
 
 Here, you will find different Power BI solutions, dashboards, reports, and problem-solving examples. These projects are designed to analyze data, create meaningful insights, and present information through interactive visualizations.
 
-## Featured Dashboard Preview
-
-<img width="1035" height="689" alt="Training at a Glance Power BI Dashboard" src="https://github.com/user-attachments/assets/cc6e99ca-a60d-47b3-a859-a9026e87b44d" />
-
-<img width="1039" height="579" alt="Heart Rate and Intensity Power BI Dashboard" src="https://github.com/user-attachments/assets/8493428f-fd2b-491c-8520-b658197a61cd" />
-
 ## Overview
 
 This repository includes various Power BI dashboard examples related to:
@@ -30,6 +24,10 @@ This repository includes various Power BI dashboard examples related to:
 - Data Modeling
 
 ## Dashboard Preview
+
+<img width="1035" height="689" alt="Training at a Glance Power BI Dashboard" src="https://github.com/user-attachments/assets/cc6e99ca-a60d-47b3-a859-a9026e87b44d" />
+
+<img width="1039" height="579" alt="Heart Rate and Intensity Power BI Dashboard" src="https://github.com/user-attachments/assets/8493428f-fd2b-491c-8520-b658197a61cd" />
 
 <img width="1430" height="791" alt="Power BI Dashboard 1" src="https://github.com/user-attachments/assets/acec9636-5534-4284-9cfd-09048abcc88e" />
 
